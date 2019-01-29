@@ -1,4 +1,4 @@
-// Ahmet Faruk Çolak ** CSE 2023 Discrete Project ** 150116039	
+// Ahmet Faruk Çolak 
 
 #include <time.h>
 #include <stdio.h>
